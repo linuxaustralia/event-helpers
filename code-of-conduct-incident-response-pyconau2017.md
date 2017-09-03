@@ -52,7 +52,7 @@ After the conference, we could consider publishing a CoC transparency report. Ex
 
 ## Risk and impact
 
-Source: (https://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)[Enforcing your Code of Conduct (slides)] - Audrey Eschright, OSFeels 2015
+Source: [Enforcing your Code of Conduct (slides)](https://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response) - Audrey Eschright, OSFeels 2015
 
 See in particular the 'risk and impact' categorisations from this talk to help categorise the severity of a CoC violation, and to formulate the response to a violation.
 
@@ -73,8 +73,8 @@ See in particular the 'risk and impact' categorisations from this talk to help c
 
 ## References and further reading
 
-* [https://www.coc-handbook.com/](Django Code of Conduct Handbook)
-* [http://blog.sendecka.me/post/147605166528/how-to-implement-your-code-of-conduct](How to implement your code of conduct)
-* [https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/](PyCon US 2013 Staff procedure for handling harassment, same as 2016)
-* [http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports](Conference anti-harassment - Responding to reports - Geek Feminism wiki)
+* [Django Code of Conduct Handbook](https://www.coc-handbook.com/)
+* [How to implement your code of conduct](http://blog.sendecka.me/post/147605166528/how-to-implement-your-code-of-conduct)
+* [PyCon US 2013 Staff procedure for handling harassment, same as 2016](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+* [Conference anti-harassment - Responding to reports - Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 
