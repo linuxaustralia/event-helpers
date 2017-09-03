@@ -30,7 +30,13 @@
 * Inform attendees through announcement (*Event Lead Organiser*)
 
 ````
-"<thing> happened. This was a violation of our policy. We apologise for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."
+"<thing> happened. 
+This was a violation of our policy. 
+We apologise for this. 
+We have taken <action>. 
+This is a good time for all attendees to review our policy at <location>. 
+If anyone would like to discuss this further they can <contact us somehow>."
+
 ```
 
 * It is important for attendees to know that reports are taken seriously
