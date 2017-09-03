@@ -66,11 +66,15 @@ See in particular the 'risk and impact' categorisations from this talk to help c
 
 ### Using risk and impact to determine a response (adapted from Audrey Eschright)
 
+|               | Low risk                                 | High risk                            |
+| :------------ |:-----------------------------------------| :------------------------------------|
+| Low impact    | verbal warning                           | take notes, follow up later          |
+| High impact   | public apology, remove person from event | coordinated whole-team response      |
 
 ## References and further reading
 
-* (https://www.coc-handbook.com/)[Django Code of Conduct Handbook] 
-* (http://blog.sendecka.me/post/147605166528/how-to-implement-your-code-of-conduct)[How to implement your code of conduct]
-* (https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)[PyCon US 2013 Staff procedure for handling harassment, same as 2016]
-* ()[Conference anti-harassment - Responding to reports - Geek Feminism wiki]
+* [https://www.coc-handbook.com/](Django Code of Conduct Handbook)
+* [http://blog.sendecka.me/post/147605166528/how-to-implement-your-code-of-conduct](How to implement your code of conduct)
+* [https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/](PyCon US 2013 Staff procedure for handling harassment, same as 2016)
+* [http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports](Conference anti-harassment - Responding to reports - Geek Feminism wiki)
 
